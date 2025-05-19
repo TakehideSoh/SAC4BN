@@ -1,0 +1,4 @@
+Set,#Instance,PyBoolNet,SAF,SAF_SharpSAT-TD,fASP_conj,fASP_src,AEON,Hybrid_BMSA,Tseitin_SharpSAT-TD,PI_SharpSAT-TD,Hybrid_SharpSAT-TD
+BBM,230,180,220,228,195,213,224,218,230,229,230
+Random,400,0,0,0,15,15,12,15,71,88,88
+Selected,13,5,6,10,6,7,8,7,12,11,12

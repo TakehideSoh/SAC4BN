@@ -1,4 +1,13 @@
-# Supplementary Material for "A SAT-based Method for Counting All Singleton Attractors in Boolean Networks"
+# SAC4BN
+
+- SAC4BN is a tool implementing "A SAT-based Method for Counting All Singleton Attractors in Boolean Networks" which will be presented in IJCAI-25.
+```text
+Rei Higuchi, Takehide Soh, Daniel Le Berre, Morgan Magnin, Mutsunori Banbara and Naoyuki Tamura. 
+SAT-based Method for Counting All Singleton Attractors in Boolean Networks. 
+In Proc. IJCAI-25, in print, 2025. 
+```
+
+- This repository contains all supplementary material of the IJCAI-25 paper.
 
 ## Directory Structure
 
